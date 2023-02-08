@@ -1,12 +1,14 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=todo-server
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=3
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=exception
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.0.2
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.study
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=11
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=todo-server
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.study.todo-server
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=exception
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.study.exception
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=GRADLE
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.version=0.0.1-SNAPSHOT
