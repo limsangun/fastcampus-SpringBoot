@@ -1,0 +1,20 @@
+spring:
+  h2:
+    console:
+      enabled: true
+  jpa:
+    defer-datasource-initialization: true
+    # console창에 실행되는 query문을 보여줌
+    show-sql: true
+    # query를 좀더 보기 편하게 정렬되서 나옴
+    properties:
+      hibernate:
+        format_sql: true
+    generate-ddl: true
+    hibernate:
+      ddl-auto: create-drop
+  datasource:    
+    url: jdbc:mysql://localhost:3306/book_manager
+    username: root
+    password: tkddns3348  
+    
